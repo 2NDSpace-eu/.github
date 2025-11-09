@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![2NDSpace Logo]([https://via.placeholder.com/200x80/0A0E27/FFFFFF?text=2NDSPACE](https://www.2ndspace.eu/))
+![2NDSpace Logo](https://via.placeholder.com/200x80/0A0E27/FFFFFF?text=2NDSPACE](https://www.2ndspace.eu/))
 
 ### Enabling fast access to space. Without compromises.
 
