@@ -9,8 +9,9 @@
 
 **Reliable and tailor-made CubeSat platforms and nanosatellite hardware for a new era of immediate and revolutionized access to space**
 
-[![Website](https://img.shields.io/badge/Website-2ndspace.eu-FF9900?style=for-the-badge&labelColor=555555)](https://www.2ndspace.eu/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-FF9900?style=for-the-badge&labelColor=555555)](https://www.linkedin.com/company/2ndspace-srl/)
+[![Website](https://img.shields.io/badge/Website-2ndspace.eu-FF9900?labelColor=555555&style=flat)](https://www.2ndspace.eu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-FF9900?labelColor=555555&style=flat)](https://www.linkedin.com/company/2ndspace-srl/)
+
 
 
 </div>
