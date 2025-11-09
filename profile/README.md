@@ -1,4 +1,3 @@
-
 # 2NDSpace
 
 <div align="center">
@@ -11,7 +10,7 @@
 **Reliable and tailor-made CubeSat platforms and nanosatellite hardware for a new era of immediate and revolutionized access to space**
 
 [![Website](https://img.shields.io/badge/Website-2ndspace.eu-blue)](https://www.2ndspace.eu/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5)](https://www.linkedin.com/company/2ndspace/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5)](https://www.linkedin.com/company/2ndspace-srl/)
 
 </div>
 
@@ -55,7 +54,7 @@ We develop and manufacture:
 ## 🔗 Connect With Us
 
 - **Website**: [www.2ndspace.eu](https://www.2ndspace.eu/)
-- **LinkedIn**: [2NDSpace Company Page](https://www.linkedin.com/company/2ndspace/)
+- **LinkedIn**: [2NDSpace Company Page](https://www.linkedin.com/company/2ndspace-srl/)
 - **Email**: Contact us through our website
 
 ---
