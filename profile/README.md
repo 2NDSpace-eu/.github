@@ -46,33 +46,12 @@ We develop and manufacture:
 - **Tailor-Made Solutions** - Engineered to meet unique mission objectives and constraints
 - **Rapid Access to Space** - Streamlined processes for faster mission realization
 
-## 🌟 Our Approach
-
-- **No Compromises**: Quality and reliability are at the core of everything we do
-- **Innovation-Driven**: Pushing the boundaries of what's possible in small satellite technology
-- **Customer-Focused**: Tailored solutions designed around your mission requirements
-- **Flight-Proven**: All our systems are validated through actual space missions
-
 ## 🔗 Connect With Us
 
 - **Website**: [www.2ndspace.eu](https://www.2ndspace.eu/)
 - **LinkedIn**: [2NDSpace Company Page](https://www.linkedin.com/company/2ndspace-srl/)
 - **Email**: Contact us through our website
 
----
-
-## 📄 Repositories
-
-This organization hosts various projects related to our space technology initiatives, including:
-
-- Software tools for satellite operations
-- Ground station utilities
-- Mission planning frameworks
-- Open-source contributions to the space community
-
-## 🤝 Collaboration
-
-We're always interested in collaborating with researchers, engineers, and organizations passionate about space technology. If you're interested in working with us, please reach out through our website.
 
 ---
 
